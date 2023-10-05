@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933319728675",
+    "project_id": "bookkaro-e7549",
+    "storage_bucket": "bookkaro-e7549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933319728675:android:3a0526ec9d00f5ce479b96",
+        "android_client_info": {
+          "package_name": "com.example.ccnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933319728675-gu9qpjq404sqei8tfirtp7k616sgij8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQpo5JNV-pJCsujPODHMbBp-Y-ENcnA-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933319728675-gu9qpjq404sqei8tfirtp7k616sgij8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
