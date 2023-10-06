@@ -12,7 +12,7 @@ Google reCAPTCHA Setup\
 Bus search and booking functionality.\
 QR code generation for booked tickets.\
 Integration with Firebase Realtime Database for data storage.\
-Google reCAPTCHA for bot detection during user interactions.\
+Google reCAPTCHA for bot detection during user interactions.
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
@@ -24,7 +24,7 @@ To get started with the application, follow these steps:
 
 Clone this repository to your local machine.
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/keval-som/Book-Karo-bus-ticket-app-android.git
 
 Open the project in Android Studio.
 
