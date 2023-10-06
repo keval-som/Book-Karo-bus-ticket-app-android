@@ -6,7 +6,7 @@ Features\
 Prerequisites\
 Getting Started\
 Firebase Setup\
-Google reCAPTCHA Setup\
+Google reCAPTCHA Setup
 
 ## Features
 Bus search and booking functionality.\
